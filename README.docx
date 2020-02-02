@@ -1,0 +1,53 @@
+# MyCrop
+The project is divided into two parts; mobile application and IOT based device.
+
+IOT based device, called BigDrip is basically a amalgation of containers, which shall be filled by the user with nutrients once, and then water flow control sensor shall control the amount of the nutrients into a single container, that shall be connected with a pipe of sorts that will work by sending the nutrients in a liquid form through drip irrigation. This will minimise the human interaction needed to grow crops in a home garden.
+
+Mobile Application will act as a portal for people to know about other home gardens nearby for buying the vegetables that other people are growing, via money or barter.
+
+Arduino Circuit and Water Flow Control Sensor
+
+
+
+
+Application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data Visualization using Python-tk
+
+
+IOT Device (BigDrip)
+
+
