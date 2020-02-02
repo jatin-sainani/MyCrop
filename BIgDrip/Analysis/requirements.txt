@@ -1,0 +1,8 @@
+tkintertable
+seaborn
+scikit-learn
+time
+pandas
+pyserial
+matplotlib
+tkinter
